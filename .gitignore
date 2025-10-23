@@ -1,0 +1,33 @@
+# macOS
+.DS_Store
+*.swp
+*~
+
+# Xcode
+*.xcuserdata/
+*.xcuserstate
+project.xcworkspace/xcuserdata/
+*.pbxuser
+*.mode1v3
+*.mode2v3
+
+# Build products
+build/
+DerivedData/
+*.ipa
+*.dSYM.zip
+*.app.dSYM.zip
+
+# CocoaPods
+Pods/
+Podfile.lock   # commit this if you want exact versions
+
+# fastlane
+fastlane/report.xml
+fastlane/Preview.html
+fastlane/screenshots
+fastlane/test_output
+
+# Sensitive configs with secrets
+Secrets.xcconfig
+GoogleService-Info.plist
