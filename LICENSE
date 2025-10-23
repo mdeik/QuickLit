@@ -1,21 +1,50 @@
-MIT License
+PERSONAL & EDUCATIONAL USE LICENSE (PEUL)
+Copyright (c) 2025 Matthew Deik — All rights reserved.
 
-Copyright (c) 2025 Matthew Deik
+1. Grant of Limited Rights
+Subject to the terms below, the copyright holder grants you a limited, non-exclusive, non-transferable license to:
+- View, clone, and run the source code for personal, non-commercial, and educational purposes (including learning, inspecting, and experimenting).
+- Create local modifications for your own personal or educational use.
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+1.1 Public forks — limited exception to Section 2
+Public forks of this repository on platforms such as GitHub are permitted **only** as a limited exception to Section 2 and **only** if all of the following apply:
+- The fork preserves this LICENSE file and the copyright notice unchanged.
+- The fork and any derivative work are distributed **only** under the exact terms of this PEUL (i.e., no relicensing under other terms).
+- The fork is used solely for personal, non-commercial, and educational purposes as defined in this license.
+- The fork does not publish or distribute modified code for commercial use, app-store submission, or as part of a revenue-generating product without express written permission from the copyright holder (see repository owner / GitHub profile for contact).
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+2. Distribution; source and binary forms prohibited without permission
+Except for the limited public-fork permission in Section 1.1, you may NOT, without express written permission from the copyright holder (see repository owner / GitHub profile for contact):
+- Distribute, publish, sell, sublicense, rent, lease, or otherwise make available the original or modified code to the public in **source or binary form** (including compiled, minified, obfuscated, containerized, or packaged forms).
+- Release any derivative work under any license that permits public redistribution in a way that enables commercial use, unless expressly authorized by the copyright holder.
+- Use the code, or portions of it, in any commercial, revenue-generating, or production service or product.
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+2.1 SaaS / hosted use
+Operating the code, or a modified version of the code, to provide a publicly-available or paid service (including hosted, cloud, or SaaS offerings) is considered commercial use and requires a separate license from the copyright holder.
+
+3. App Store / Commercial Requests
+If you wish to distribute, publish, or use this project commercially (including releasing on an app store), contact the copyright holder via the repository owner / GitHub profile to request a commercial license or permission. The copyright holder may, at their sole discretion, grant a separate commercial license under mutually agreed terms.
+
+4. Attribution & Copyright Notice
+Any permitted local copies, forks, or uses must retain the copyright notice and this license in the project files. You must not remove or alter any copyright or license notices in the repository or permitted forks.
+
+5. Contributions
+By submitting code, pull requests, or other contributions to this repository you grant the copyright holder a perpetual, worldwide, royalty-free, non-exclusive license to use, modify, and distribute your contribution under the terms of this license. This grant survives termination of your rights under this license.
+
+6. Termination (for breach)
+This license is not revocable at will. It is automatically terminated if you materially breach any term herein. Upon termination you must cease all use of the code and delete all local copies, including any modifications and forks under your control, except that Sections 7, 8, 9, and this survivorship sentence survive termination.
+
+7. No Warranty (survives termination)
+The code is provided “AS IS”, without warranty of any kind, express or implied, including but not limited to warranties of merchantability, fitness for a particular purpose, or non-infringement.
+
+8. Limitation of Liability (survives termination)
+In no event shall the copyright holder be liable for any claim, damages, or other liability arising from the use of the code.
+
+9. Export / Sanctions
+You must comply with all applicable export-control, trade, and economic sanctions laws and regulations. You may not use or transfer the code in violation of such laws.
+
+10. Governing Law; venue
+This License is governed by the laws of the State of Maryland, USA. Exclusive venue for any dispute arising under this license shall lie in the state or federal courts located in Maryland.
+
+11. Miscellaneous; severability; survival
+If any provision of this license is held invalid, the remaining provisions will remain in full force and effect. Sections 5, 7, 8, 9, 10, and this Section 11 survive termination.
