@@ -1,7 +1,11 @@
 # <img src="Screenshots/icon.png" alt="Icon" width="50" /> QuickLit - RSVP Reading App
 "*The Quicker <small>Word</small> Picker Upper*"
 
-[Demo Video](Screenshots/demo.mov)
+
+
+https://github.com/user-attachments/assets/74391da9-c3f9-455c-8666-18216af71113
+
+
 
 *A modern cross-platform reading application built with SwiftUI that implements Rapid Serial Visual Presentation (RSVP) technology to enhance reading speed and comprehension.*
 
@@ -15,8 +19,7 @@
 - **Progress Tracking**: Real-time progress indicators and navigation
 
 
-<img src="Screenshots/materials.PNG" alt="reading_materials" width="200" />
-<img src="Screenshots/selection.PNG" alt="materials_selection" width="200" />
+<img src="Screenshots/materials.PNG" alt="reading_materials" width="200" /> <img src="Screenshots/selection.PNG" alt="materials_selection" width="200" />
 
 *Customizable reading experience with precise speed control*
 
@@ -109,7 +112,7 @@ This sophisticated EPUB processing ensures readers get clean, properly structure
 - **Platform Optimized**: Native controls and interactions
 - **Seamless Sync**: Reading progress maintained across devices
 
-<img src="Screenshots/reader_mac.PNG" alt="mac_version" width="600" />
+<img src="Screenshots/reader_mac.png" alt="mac_version" width="600" />
 
 
 ## 🚀 Getting Started
