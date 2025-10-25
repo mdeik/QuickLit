@@ -19,7 +19,7 @@ https://github.com/user-attachments/assets/a81a5b35-fcaf-41dd-81b4-36c3a930973f
 - **Progress Tracking**: Real-time progress indicators and navigation
 
 
-<img src="Screenshots/materials.PNG" alt="reading_materials" width="200" /> <img src="Screenshots/selection.PNG" alt="materials_selection" width="200" />
+<img src="Screenshots/materials.PNG" alt="reading_materials" width="200" /> <img src="Screenshots/selection.PNG" alt="materials_selection" width="200" /> <img src="Screenshots/swipe.gif" alt="materials_selection" width="200" /> 
 
 *Customizable reading experience with precise speed control*
 
@@ -76,10 +76,9 @@ This sophisticated EPUB processing ensures readers get clean, properly structure
 - **MVVM Pattern**: Clean separation of business logic and presentation
 - **Cross-Platform**: Single codebase for iOS and macOS
 
-<!-- ARCHITECTURE_DIAGRAM: MVVM architecture diagram showing data flow -->
+
 *Clean architecture with clear separation of concerns*
 
-<!-- CODE_SCREENSHOT: Xcode showing the SupportedFormat enum implementation -->
 *Unified file processing system supporting 8+ document formats*
 
 ### Technical Highlights
@@ -88,7 +87,6 @@ This sophisticated EPUB processing ensures readers get clean, properly structure
 - **Gesture Navigation**: Intuitive swipe controls for word navigation
 - **Theme System**: Dynamic color adaptation across entire application
 
-<!-- SCREENSHOT: File import interface showing drag & drop zone -->
 *Seamless file import with drag & drop support*
 
 ## 🎯 User Experience
@@ -98,14 +96,12 @@ This sophisticated EPUB processing ensures readers get clean, properly structure
 - **Center Word Highlighting**: Natural focus point reduces eye movement
 - **Peripheral Context**: Surrounding words provide reading flow
 
-<!-- SCREENSHOT: Reading session in progress showing word-by-word display -->
 
 ### Intuitive Interaction
 - **Swipe Navigation**: Gesture controls for forward/backward movement
 - **Progress Visualization**: Clear indicators show reading position
 - **One-Tap Controls**: Play/pause and speed adjustment
 
-<!-- SCREENSHOT: Progress bar and navigation controls -->
 
 ### Cross-Platform Consistency
 - **Unified Design**: Consistent experience across iOS and macOS
